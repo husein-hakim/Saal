@@ -64,4 +64,4 @@ A huge thanks to:
 ggerganov for Whisper.cpp
 mlx-community for MLX, MLX Audio, and Kokoro
 
-Without these packages Saal would not have been possible!
+Without these amazing open-source projects Saal would not have been possible!

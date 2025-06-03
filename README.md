@@ -49,6 +49,11 @@ Pull requests and ideas are welcome! Feel free to open an issue or fork the repo
 
 ---
 
+## 👀 Coming Soon
+I plan on improving the STS pipeline by:
+- Implementing VAD(Voice ACtivity Detection) to remove the need for switching the microphone on and off and detect when the user stops speaking for a seamless experience
+- Add options for devlopers to toggle different: Whisper.cpp models for improved speed, LLM models such as Qwen, gemma, etc with the support of MLX, different Kokoro Voices
+
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 

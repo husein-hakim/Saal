@@ -2,6 +2,8 @@
 
 **Saal** is an open-source, local speech-to-speech (STS) processing pipeline built for Swift/iOS developers. It allows you to convert spoken input into spoken output, making it ideal for voice assistants, emotion-aware AI, or real-time voice applications.
 
+![IMG_3ECAF0CAD63A-1](https://github.com/user-attachments/assets/4745dcbc-c161-41a3-949e-84e90980e578)
+
 ---
 
 ## 🧩 What Powers Saal?
@@ -44,7 +46,7 @@ Take a look at the STSViewModel to understand how to toggle different states suc
 
 ---
 
-##🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 Pull requests and ideas are welcome! Feel free to open an issue or fork the repo and submit a PR.
 
 ---
@@ -54,7 +56,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-##🙌 Acknowledgements
+## 🙌 Acknowledgements
 A huge thanks to:
 ggerganov for Whisper.cpp
 mlx-community for MLX, MLX Audio, and Kokoro

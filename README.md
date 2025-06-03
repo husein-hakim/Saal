@@ -2,6 +2,8 @@
 
 **Saal** is an open-source, local speech-to-speech (STS) processing pipeline built for Swift/iOS developers. It allows you to convert spoken input into spoken output, making it ideal for voice assistants, emotion-aware AI, or real-time voice applications.
 
+<img src="[path/to/image.png](https://github.com/user-attachments/assets/4745dcbc-c161-41a3-949e-84e90980e578)" alt="Screenshot" width="500">
+
 ![IMG_3ECAF0CAD63A-1](https://github.com/user-attachments/assets/4745dcbc-c161-41a3-949e-84e90980e578)
 
 ---
